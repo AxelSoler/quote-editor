@@ -7,4 +7,4 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 puts "\n== Seeding the database with fixtures =="
-system("rails db:fixtures:load")
+system('rails db:fixtures:load')
